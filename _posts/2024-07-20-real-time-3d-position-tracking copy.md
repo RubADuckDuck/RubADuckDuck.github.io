@@ -1,5 +1,8 @@
 # Real-time 3D Position Tracking for Off-axis Rendering
 
+1. [Python-side](https://github.com/RubADuckDuck/Binocular-Position-Retreival/blob/master/bnc_v1.0__main_udp.py)
+2. [Unity-side](https://github.com/RubADuckDuck/OffaxisProjUnity?tab=readme-ov-file)
+
 I built a system that tracks where you are in 3D space using two webcams and adjusts a display to look 3D from your viewpoint. Here's how it works.
 
 ## How We Find Your Position in 3D
