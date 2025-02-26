@@ -1,8 +1,13 @@
-# Real-time 3D Position Tracking for Off-axis Rendering
+# OmniPerspect: Real-time 3D Position Tracking and Off-axis Projection
 
 github links:  
 1. [Python-side](https://github.com/RubADuckDuck/Binocular-Position-Retreival/blob/master/bnc_v1.0__main_udp.py)
 2. [Unity-side](https://github.com/RubADuckDuck/OffaxisProjUnity?tab=readme-ov-file)
+
+<video width="70%" controls>
+   <source src="/assets/videos/post-kalman.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+</video>
 
 I built a system that tracks where you are in 3D space using two webcams and adjusts a display to look 3D from your viewpoint. Here's how it works.
 
