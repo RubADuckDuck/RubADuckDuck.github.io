@@ -1,5 +1,10 @@
 # Discrete Parallel Transport: A Framework for Non-Euclidean Game Worlds
 
+github links:  
+1. [Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
+2. [https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/include/Core/GridManager.h]
+3. [https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/src/Core/GridManager.cpp]
+
 ## Project Overview
 
 This post documents my implementation of non-Euclidean geometry in a cooperative game environment. The project uses concepts from differential geometry, particularly parallel transport, to create a general framework for representing various non-Euclidean spaces in a grid-based game world.
@@ -112,5 +117,5 @@ This technical framework enables several gameplay possibilities:
 Want to see the full code or learn more? Check out the GitHub repository: 
 
 1. [Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
-2. https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/include/Core/GridManager.h
-3. https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/src/Core/GridManager.cpp
+2. [https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/include/Core/GridManager.h]
+3. [https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/src/Core/GridManager.cpp]

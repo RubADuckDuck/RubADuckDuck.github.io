@@ -1,5 +1,6 @@
 # Real-time 3D Position Tracking for Off-axis Rendering
 
+github links:  
 1. [Python-side](https://github.com/RubADuckDuck/Binocular-Position-Retreival/blob/master/bnc_v1.0__main_udp.py)
 2. [Unity-side](https://github.com/RubADuckDuck/OffaxisProjUnity?tab=readme-ov-file)
 
@@ -77,13 +78,13 @@ with mmap.mmap(-1, shm_size, tagname='Local\\memfile', access=mmap.ACCESS_WRITE)
 </video>
 This shows how the view changes based on viewer position.
 
-<video width="100%" controls>
+<video width="70%" controls>
    <source src="/assets/videos/pre-kalman.mp4" type="video/mp4">
    Your browser does not support the video tag.
 </video>
 Initial tracking was jittery.
 
-<video width="100%" controls>
+<video width="70%" controls>
    <source src="/assets/videos/post-kalman.mp4" type="video/mp4">
    Your browser does not support the video tag.
 </video>
