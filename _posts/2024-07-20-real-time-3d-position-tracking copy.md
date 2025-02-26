@@ -88,6 +88,5 @@ Kalman filtering made the tracking much smoother.
 
 Want to see the full code or learn more? Check out the GitHub repository: 
 
-[Python-side](https://github.com/RubADuckDuck/Binocular-Position-Retreival/blob/master/bnc_v1.0__main_udp.py)
-
-[Unity-side](https://github.com/RubADuckDuck/OffaxisProjUnity?tab=readme-ov-file)
+1. [Python-side](https://github.com/RubADuckDuck/Binocular-Position-Retreival/blob/master/bnc_v1.0__main_udp.py)
+2. [Unity-side](https://github.com/RubADuckDuck/OffaxisProjUnity?tab=readme-ov-file)

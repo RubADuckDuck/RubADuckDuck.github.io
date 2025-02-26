@@ -111,8 +111,6 @@ This technical framework enables several gameplay possibilities:
 ---
 Want to see the full code or learn more? Check out the GitHub repository: 
 
-[Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
-
-[Part of the code related to this blog post 1](https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/include/Core/GridManager.h) 
-
-[Part of the code related to this blog post 2](https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/src/Core/GridManager.cpp)
+1. [Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
+2. https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/include/Core/GridManager.h
+3. https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/src/Core/GridManager.cpp
