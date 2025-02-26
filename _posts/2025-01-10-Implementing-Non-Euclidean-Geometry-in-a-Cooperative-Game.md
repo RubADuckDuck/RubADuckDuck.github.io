@@ -1,4 +1,4 @@
-# Implementing Non-Euclidean Geometry in a Cooperative Game
+# Discrete Parallel Transport: A Framework for Non-Euclidean Game Worlds
 
 ## Project Overview
 
@@ -109,5 +109,10 @@ This technical framework enables several gameplay possibilities:
 3. Navigation challenges where understanding the geometry is key
 
 ---
+Want to see the full code or learn more? Check out the GitHub repository: 
 
-*This project represents an application of differential geometry concepts to game development, creating a general framework for implementing various non-Euclidean spaces through the mathematical principle of parallel transport.*
+[Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
+
+[Part of the code related to this blog post 1](https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/include/Core/GridManager.h) 
+
+[Part of the code related to this blog post 2](https://github.com/RubADuckDuck/Mandelbrot-Planet/blob/main/src/Core/GridManager.cpp)

@@ -95,3 +95,10 @@ void NetworkCodec::HandleNetworkData(const std::vector<uint8_t>& data, GameState
 - Flexible communication protocol
 - Efficient state synchronization
 
+Want to see the full code or learn more? Check out the GitHub repository: 
+
+[Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
+
+[Part of the code related to this blog post 1](https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/src/Network) 
+
+[Part of the code related to this blog post 2](https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/include/Network)
