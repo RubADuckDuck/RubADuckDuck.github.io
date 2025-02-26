@@ -1,8 +1,9 @@
 # Networked Cooperative Game Implementation
 
+github links:  
 1. [Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
-2. [https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/src/Network]
-3. [https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/include/Network]
+2. <https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/src/Network>
+3. <https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/include/Network>
 
 ## Project Overview
 
@@ -102,5 +103,5 @@ void NetworkCodec::HandleNetworkData(const std::vector<uint8_t>& data, GameState
 Want to see the full code or learn more? Check out the GitHub repository: 
 
 1. [Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
-2. [https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/src/Network]
-3. [https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/include/Network]
+2. <https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/src/Network>
+3. <https://github.com/RubADuckDuck/Mandelbrot-Planet/tree/main/include/Network>
