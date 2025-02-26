@@ -1,4 +1,4 @@
-# Networked Cooperative Game Implementation
+# Building Resilient Client-Server Game Communication
 
 github links:  
 1. [Mandelbrot-Planet](https://github.com/RubADuckDuck/Mandelbrot-Planet) 
